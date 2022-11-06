@@ -50,7 +50,7 @@ function task(i) {
 	first = false;
 	}
 	else{
-		bot.chat("How are you")
+		bot.chat("ZOM is TOP")
 		first = true;
 	}
   }, 3600000 * i); 
